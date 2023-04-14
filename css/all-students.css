@@ -1,0 +1,36 @@
+.table thead td{
+    padding: 10px;
+    background-color: rgb(39, 39, 183);
+    color:#fff;
+}
+
+.table{
+    background-color: rgb(55, 55, 92);
+    padding: 5px;
+
+}
+
+.table td{
+    color: #fff;
+}
+
+tr td button{
+    background-color: red;
+    border: none;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+}
+
+tr td button:hover{
+    cursor: pointer;
+}
+
+tr td button a{
+    color: #fff;
+    text-decoration: none;
+}
+
+tr td button a:hover{
+    color: #000;
+}
